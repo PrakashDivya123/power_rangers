@@ -1,0 +1,11 @@
+name: video-sentinel
+version: 0.1.0
+description: >
+  Temporal anomaly detection, zero-shot crime classification, and scene
+  description for surveillance video using Twelve Labs Marengo + Pegasus.
+authors: ["Om"]
+url: "https://github.com/your-repo/video-sentinel"
+operators:
+  - detect_anomaly_windows
+  - classify_crime
+  - describe_scene
