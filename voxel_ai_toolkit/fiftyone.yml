@@ -1,0 +1,5 @@
+name: "@voxelhackathon/video-intelligence-toolkit"
+version: "1.0.0"
+description: "A hub for anomaly review and dataset curation utilizing Twelve Labs."
+operators:
+  - analyze_video_clip
